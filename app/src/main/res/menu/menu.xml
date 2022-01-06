@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inicioAdmin"
+            android:title="@string/inicioAdmin"
+            android:icon="@drawable/uno_ico"/>
+
+        <item
+            android:id="@+id/agregarRegistro"
+            android:title="Nueva detección"
+            android:icon="@drawable/dos_ico"/>
+
+        <item
+            android:id="@+id/registros"
+            android:title="@string/registros"
+            android:icon="@drawable/tres_ico"/>
+
+        <item
+            android:id="@+id/agregarUsuario"
+            android:title="@string/agregarUsuario"
+            android:icon="@drawable/cuatro_ico"/>
+        <item
+            android:id="@+id/verUsuarios"
+            android:title="@string/verUsuarios"
+            android:icon="@drawable/cinco_ico"/>
+
+        <item
+            android:id="@+id/salir"
+            android:title="@string/salir"
+            android:icon="@drawable/seis_ico"/>
+
+    </group>
+
+</menu>

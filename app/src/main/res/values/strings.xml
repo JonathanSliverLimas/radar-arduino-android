@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Radar</string>
+    <string name="desarrollador">By Jonathan limas - Ignacio Díaz</string>
+    <string name="navigationDrawerOpen">Open navigation drawer</string>
+    <string name="navigationDrawerClose">Close navigation drawer</string>
+
+    <!--MENU-->
+    <string name="inicioAdmin">Inicio</string>
+    <string name="registros">Detectados</string>
+    <string name="agregarUsuario">Agregar usuario</string>
+    <string name="verUsuarios">Ver usuarios</string>
+    <string name="salir">Cerrar sesión</string>
+    <string name="agregarRegistro">Agregar registro</string>
+    <string name="crearRegistro">Crear detección</string>
+
+    <!--Login-->
+    <string name="IniciarSesion">Iniciar sesión</string>
+
+    <!--Formulario-->
+    <string name="Registrar">Agregar</string>
+    <string name="RUN">RUN</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Edad">Edad</string>
+    <string name="Genero">Género</string>
+    <string name="TipoUsuario">Tipo de usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Administrador">Administrador</string>
+    <string name="Usuario">Usuario</string>
+
+    <!--Botones CRUD-->
+    <string name="Buscar">Buscar</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+
+    <!--Registro CRUD-->
+    <string name="fechaRegistro">Fecha de registro</string>
+    <string name="horaRegistro">Hora de registro</string>
+    <string name="deteccionAuto">OJO: Esto se va ejecutar de forma automática al implementar Arduino</string>
+    <string name="posicion">Posicion: 140°</string>
+    <string name="distancia">Distancia: 20 cm</string>
+    <!--Registros-->
+
+
+</resources>
